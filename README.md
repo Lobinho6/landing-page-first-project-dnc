@@ -1,2 +1,2 @@
-# landing-page-first-project-dnclanding-page-first-project-dnc
-This is my first try with web development using HTML, CSS and JavaScript.
+# landing-page-first-project-dnc
+This is my first try in the area of web development using HTML, CSS and JavaScript.
